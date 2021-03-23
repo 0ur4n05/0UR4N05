@@ -6,4 +6,4 @@ Hey i'm 0UR4N05 ,i love cyber security and i play ctf sometimes , i don't have a
 
 ### Top Languages Card
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0UR4N05)](https://github.com/anuraghazra/github-readme-stats)
