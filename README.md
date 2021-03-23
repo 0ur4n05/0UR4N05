@@ -1,8 +1,8 @@
-<img src="https://steamuserimages-a.akamaihd.net/ugc/923668403110060122/F1A2964E2EB5B415AD4238216CD663FC3328BCFC/" />
+![evangelion8](https://user-images.githubusercontent.com/65312444/112222183-4c302d80-8c20-11eb-9145-1f5b3bf63434.gif)
+
 ### Whoami??
 
-
-Hey i'm 0UR4N05 ,i love cyber security and i play ctf sometimes , i don't have a lot of projects in github but i'll try to focus on making projects in future(maybe not)
+Hey i'm 0UR4N05 ,i love cyber security and i play ctf sometimes , i don't have a lot of projects in github but i'll try to focus on making projects in future(maybe not).
 
 ### Top Languages Card
 
