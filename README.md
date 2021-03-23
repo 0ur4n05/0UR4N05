@@ -1,9 +1,4 @@
-![evangelion8](https://user-images.githubusercontent.com/65312444/112222183-4c302d80-8c20-11eb-9145-1f5b3bf63434.gif)
-
-### Whoami??
+<p align="center">
+<img src="">
 
 Hey i'm 0UR4N05 ,i love cyber security and i play ctf sometimes , i don't have a lot of projects in github but i'll try to focus on making projects in future(maybe not).
-
-### Top Languages Card
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0UR4N05)](https://github.com/anuraghazra/github-readme-stats)
